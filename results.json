@@ -12,7 +12,7 @@
     "Spongebob": 1
   },
   "test_count_oov": {
-    "dev_oov": 637,
+    "dev_oov": 638,
     "test_oov": 1367
   },
   "test_prepare_data_loader": {
@@ -26,5 +26,6 @@
     "f1": 0.9678740874172935,
     "f1_wo_o": 0.9692959643190948
   },
-  "test_glove": "NameError(\"name 'get_emb_matrix' is not defined\")"
+  "test_glove":     "f1": 0.9678740874172935,
+    "f1_wo_o": 0.9692959643190948
 }
